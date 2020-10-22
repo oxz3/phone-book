@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Phone Book/task" />
+            <option value="$PROJECT_DIR$/Problems/A fixed point" />
+            <option value="$PROJECT_DIR$/Problems/Avoid NPE" />
+            <option value="$PROJECT_DIR$/Problems/Boxes are not just objects!" />
+            <option value="$PROJECT_DIR$/Problems/Check for null" />
+            <option value="$PROJECT_DIR$/Problems/Count comparisons" />
+            <option value="$PROJECT_DIR$/Problems/Count elements of an array in another one" />
+            <option value="$PROJECT_DIR$/Problems/Descending sorting swaps" />
+            <option value="$PROJECT_DIR$/Problems/Find a block that may contain the target value" />
+            <option value="$PROJECT_DIR$/Problems/Find a value's index" />
+            <option value="$PROJECT_DIR$/Problems/Finding a collection of elements in a sorted array" />
+            <option value="$PROJECT_DIR$/Problems/Implementing the EntrySet method" />
+            <option value="$PROJECT_DIR$/Problems/Invert an array" />
+            <option value="$PROJECT_DIR$/Problems/Move the pivot" />
+            <option value="$PROJECT_DIR$/Problems/Only true or false" />
+            <option value="$PROJECT_DIR$/Problems/Pastry packing optimization" />
+            <option value="$PROJECT_DIR$/Problems/Phone Book" />
+            <option value="$PROJECT_DIR$/Problems/Print comparisons" />
+            <option value="$PROJECT_DIR$/Problems/Removing" />
+            <option value="$PROJECT_DIR$/Problems/Return empty string when argument is null" />
+            <option value="$PROJECT_DIR$/Problems/Safe converting" />
+            <option value="$PROJECT_DIR$/Problems/Search indexes of values in another array" />
+            <option value="$PROJECT_DIR$/Problems/Searching in a descending sorted array" />
+            <option value="$PROJECT_DIR$/Problems/Swaps" />
+            <option value="$PROJECT_DIR$/Problems/The first element" />
+            <option value="$PROJECT_DIR$/Problems/The number of occurrences" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
